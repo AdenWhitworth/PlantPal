@@ -1,4 +1,4 @@
-<img width="700" src="https://github.com/AdenWhitworth/PlantPal_Front%20End/raw/master/src/Images/PlantPal%20Logo.svg" alt="PlantPal Logo">
+<img width="80" src="https://github.com/AdenWhitworth/PlantPal_Front-End/raw/master/src/Images/PlantPal%20Logo.svg" alt="PlantPal Logo">
 
 # PlantPal
 
