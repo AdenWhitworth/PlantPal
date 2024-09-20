@@ -17,13 +17,13 @@ Welcome to the PlantPal project! This repository contains links to my personal p
 - [Contribution Guidelines](#contribution-guidelines)
 - [License](#license)
 
-## Front End: [PlantPal Frontend](https://github.com/AdenWhitworth/plantpal_frontend)
+## Front End: [PlantPal Frontend](https://github.com/AdenWhitworth/PlantPal_Front-End)
 The web-based user interface for the PlantPal application, built with React and designed for seamless user experience.
 
 ## Back End: [PlantPal Server](https://github.com/AdenWhitworth/plantpal_server)
 The Node.js backend API and serverless AWS Lambda Functions for managing plant data, user authentication, and real-time device communication.
 
-## Hardware: [PlantPal Hardware](https://github.com/AdenWhitworth/plantpal_hardware)
+## Hardware: [PlantPal Hardware](https://github.com/AdenWhitworth/PlantPal_hardware)
 The hardware repository containing the code and configuration for the IoT devices used in the PlantPal project.
 
 ## Technologies Used
