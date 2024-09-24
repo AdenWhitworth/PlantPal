@@ -6,9 +6,9 @@ Welcome to the PlantPal project! This repository contains links to my personal p
 
 ## Table of Contents
 - [PlantPal Live Demo](#plantpal-live-demo)
-- [Front-End](#front-end)
-- [Back-End](#back-end)
-- [Hardware](#hardware)
+- [Front-End](https://github.com/AdenWhitworth/PlantPal_Front-End)
+- [Back-End](https://github.com/AdenWhitworth/plantpal_server)
+- [Hardware](https://github.com/AdenWhitworth/PlantPal_hardware)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Contribution Guidelines](#contribution-guidelines)
@@ -28,12 +28,15 @@ You can explore the full functionality of the PlantPal application using the fol
 Please note that this test account is connected to an actual PlantPal device in my kitchen, so any interactions may affect its operation. Feel free to explore, but please be considerate of its usage!
 
 ## Front-End: [PlantPal Front-End](https://github.com/AdenWhitworth/PlantPal_Front-End)
+
 The web-based user interface for the PlantPal application, built with React and designed for seamless user experience.
 
 ## Back-End: [PlantPal Back-End](https://github.com/AdenWhitworth/plantpal_server)
+
 The Node.js backend API and serverless AWS Lambda Functions for managing plant data, user authentication, and real-time device communication.
 
 ## Hardware: [PlantPal Hardware](https://github.com/AdenWhitworth/PlantPal_hardware)
+
 The hardware repository containing the code and configuration for the IoT devices used in the PlantPal project.
 
 ## Technologies Used
