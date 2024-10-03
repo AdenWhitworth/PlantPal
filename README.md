@@ -37,7 +37,7 @@ The Node.js backend API and serverless AWS Lambda Functions for managing plant d
 
 ## Hardware: [PlantPal Hardware](https://github.com/AdenWhitworth/PlantPal_hardware)
 
-The hardware repository containing the code and configuration for the IoT devices used in the PlantPal project.
+The hardware repository containing the ESP32 code, PCB schematic, and 3D models for the PlantPal device.
 
 ## Technologies Used
 - **React**: A powerful JavaScript library for building user interfaces, enabling the development of dynamic and responsive web applications.
@@ -62,6 +62,12 @@ The hardware repository containing the code and configuration for the IoT device
   - **RDS**: For cloud-hosted SQL database management.
   - **IoT Core**: For handling MQTT protocols.
   - **Lambda**: For processing event-driven changes in SQL and MQTT data.
+- **C++**: A powerful object-oriented programming language used for developing the firmware of the PlantPal hardware. It provides the necessary features for efficient memory management and system-level programming.
+- **C**: A foundational programming language utilized for low-level hardware control and interfacing. It allows direct manipulation of memory and hardware resources, which is essential for embedded systems development.
+- **Arduino**: An open-source electronics platform based on easy-to-use hardware and software. The Arduino IDE is used to write and upload code to the ESP32 microcontroller, enabling rapid prototyping and development.
+- **MQTT**: A lightweight messaging protocol designed for low-bandwidth, high-latency, or unreliable networks. MQTT is used for communication between the PlantPal hardware and AWS IoT Core, allowing for efficient data exchange and remote monitoring.
+- **BLE (Bluetooth Low Energy)**: A wireless technology designed for short-range communication with low power consumption. BLE is utilized for connecting the PlantPal hardware to mobile devices for real-time monitoring and control.
+- **Doxygen**: A documentation generation tool that allows developers to create comprehensive documentation for their codebase. Doxygen is used to generate user-friendly documentation for the PlantPal hardware project, making it easier for other developers to understand and contribute to the project.
 
 ## Getting Started
 Instructions for setting up each project can be found in their respective repositories.
