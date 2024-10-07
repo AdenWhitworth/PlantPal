@@ -56,7 +56,6 @@ The hardware repository containing the ESP32 code, PCB schematic, and 3D models 
 - **Express.js**: Web framework for building the RESTful API.
 - **MySQL**: SQL database for storing user, plant, and device data.
 - **JWT (JSON Web Tokens)**: Used for secure authentication.
-- **Jest**: A delightful JavaScript testing framework that ensures the reliability of the application by allowing developers to write unit tests for their functions and components.
 - **Nodemailer**: A robust email-sending library for Node.js applications, enabling seamless integration with email services for confirming purchases and resetting passwords.
 - **Amazon Web Services (AWS)**: 
   - **RDS**: For cloud-hosted SQL database management.
