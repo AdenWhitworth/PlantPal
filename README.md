@@ -52,7 +52,7 @@ The hardware repository containing the ESP32 code, PCB schematic, and 3D models 
 - **Socket.IO**: A library that facilitates real-time, bidirectional communication between clients and servers, crucial for features like live updates and notifications.
 - **Jest**: A delightful JavaScript testing framework that ensures the reliability of the application by allowing developers to write unit tests for their functions and components.
 - **TypeDoc**: A documentation generator for TypeScript projects that creates consistent and user-friendly API documentation, making it easier for developers to understand and use the codebase.
-- - **Node.js**: Backend runtime environment for executing JavaScript on the server.
+- **Node.js**: Backend runtime environment for executing JavaScript on the server.
 - **Express.js**: Web framework for building the RESTful API.
 - **MySQL**: SQL database for storing user, plant, and device data.
 - **JWT (JSON Web Tokens)**: Used for secure authentication.
