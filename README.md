@@ -4,6 +4,8 @@
 
 Welcome to the PlantPal project! This repository contains links to my personal projects related to the PlantPal application, which helps plant enthusiasts monitor and manage their plants through a seamless interface and IoT integration.
 
+<img width="600" src="https://github.com/AdenWhitworth/PlantPal_Front-End/raw/master/src/Images/PlantPal%20Mockup.png" alt="PlantPal Device">
+
 ## Table of Contents
 - [PlantPal Live Demo](#plantpal-live-demo)
 - [Front-End](https://github.com/AdenWhitworth/PlantPal_Front-End)
@@ -17,6 +19,8 @@ Welcome to the PlantPal project! This repository contains links to my personal p
 ## PlantPal Live Demo
 
 The PlantPal application is live and can be accessed at [PlantPal Demo](https://www.plantpalhome.com/). This application integrates seamlessly with the PlantPal back-end, offering an intuitive experience for managing your plants remotely.
+
+<img width="600" src="https://github.com/AdenWhitworth/aden_whitworth_portfolio/raw/master/src/Images/plantpal_demo.png" alt="PlantPal Demo">
 
 ### Test User Credentials
 
