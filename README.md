@@ -71,6 +71,9 @@ The hardware repository containing the ESP32 code, PCB schematic, and 3D models 
 - **MQTT**: A lightweight messaging protocol designed for low-bandwidth, high-latency, or unreliable networks. MQTT is used for communication between the PlantPal hardware and AWS IoT Core, allowing for efficient data exchange and remote monitoring.
 - **BLE (Bluetooth Low Energy)**: A wireless technology designed for short-range communication with low power consumption. BLE is utilized for connecting the PlantPal hardware to mobile devices for real-time monitoring and control.
 - **Doxygen**: A documentation generation tool that allows developers to create comprehensive documentation for their codebase. Doxygen is used to generate user-friendly documentation for the PlantPal hardware project, making it easier for other developers to understand and contribute to the project.
+- **GitHub Actions**: A robust CI/CD platform that automates workflows such as testing, building, and deploying the application. GitHub Actions ensures consistent code quality and streamlines deployments to production environments.
+- **Vercel**: A cloud platform for hosting front-end applications. Vercel handles building and deploying the application, providing a seamless and fast experience for hosting React-based projects.
+- **DigitalOcean**: A scalable cloud hosting platform used for deploying and managing the backend. The project uses DigitalOcean's App Platform for hosting and integrates with the DigitalOcean API for automated deployments.
 
 ## Getting Started
 Instructions for setting up each project can be found in their respective repositories.
